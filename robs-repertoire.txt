@@ -1,0 +1,33 @@
+|-------------+----------------------+---------+----------------------|
+| Composer    | Title                | Printed | Location             |
+|-------------+----------------------+---------+----------------------|
+| De Visee    | Dmin Suite           |         |                      |
+| Weiss       | Passagaglia          |         |                      |
+| Ponce       | Sonatina Meridional  |         | /                    |
+| ponce       | Prelude and allegro  |         |                      |
+| Villa Lobos | Prelude 1            |         | /                    |
+| Villa Lobos | Etude 1              |         | /                    |
+| Albeniz     | Mallorca             |         |                      |
+| Domeniconi  | Anatolian Variations |         |                      |
+| Handel      | Folias Variations    |         |                      |
+| Ponce       | Emaj Prelude         |         |                      |
+| Barrios     | La Cathedral         |         |                      |
+| Lauro       | Nelly                |         |                      |
+| Lauro       | Registro             |         |                      |
+| Lauro       | carora               |         | /                    |
+| Dyens       | Tango en Skai        |         | /                    |
+| Weiss       | Fantasia Dmin        |         | weiss_fantasie_d.pdf |
+| Weiss       | Tombeau (logy bmin)  |         |                      |
+| Tarrega     | Capriccio Arabe      |         |                      |
+| Tarrega     | Requerdos            |         |                      |
+| Tedesco     | Tonadilla            |         |                      |
+| Segovia     | 2 Preludes           |         |                      |
+| Morel       | Samba Braziliera     |         |                      |
+|             | Le Missionera        |         |                      |
+| Cardoso     | Milonga              |         | /                    |
+| Morlay      | Fantasia             |         |                      |
+| Mertz       | Capriccio dmin       |         | /                    |
+| Reira       | Campanas del alba    |         |                      |
+| Torroba     | Torija               |         | /                    |
+| De Lucia    | Impetu               |         | /                    |
+|-------------+----------------------+---------+----------------------|
